@@ -1,0 +1,49 @@
+body{
+  display: flexbox;
+  background-color: #000000;
+  font-family: 'Orbitron';
+  font-size:30px;
+}
+.time{
+  display: flex;
+  font-size: 80px;
+  color:#00fc7e;
+  
+  
+}
+button{
+  margin-top:60px;
+  font-size:25px;
+  background-color: #000000;
+  border: none;
+  color:rgb(255, 254, 254);
+  padding: 13px;
+  font-family: 'Orbitron';
+}
+button:hover{
+  background-color: #1f1e1e;
+}
+button:active{
+  border: none;
+}
+header{
+  color:#00fc7e ;
+  margin:0;
+  
+}
+.watch,h1{
+  text-align: center;
+  
+}
+.watch{
+  display: flex;
+  margin-top: 90px;
+  display:flex;
+  justify-content: center; align-items: center;
+}
+
+.button-box{
+  margin: 0; width:center;
+  align-items:center;
+  text-align: center;
+}
