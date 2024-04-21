@@ -1,4 +1,5 @@
 body{
+  width:100%;
   display: flexbox;
   background-color: #000000;
   font-family: 'Orbitron';
